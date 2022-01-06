@@ -59,8 +59,8 @@ p {
 /* Title Image */
 
 #title {
-  background-color: #ff4c68;
   color: white;
+  background-color: #ff4c68;
 }
 
 .title-image {
@@ -146,13 +146,14 @@ p {
 #cta {
   color: white;
   background-color: #ff4c68;
+  padding: 7% 15%;
   text-align: center;
 }
 
 .action-text {
-  font-family: serif;
+  font-family: "Montserrat";
   font-size: 3rem;
-  font-size: normal;
+  font-weight: 900;
   padding: 8% 5% 5%;
 }
 
