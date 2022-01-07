@@ -2,8 +2,8 @@ TinDog Starting Files
 
 # Overview
 
-A tinder web for dog
-Angela Yu Webdev Bootcamp
+A tinder web for dog.
+Angela Yu Webdev Bootcamp.
 
 - HTML
 - CSS
